@@ -8,8 +8,6 @@ function mostrar()
     nombre = prompt("tu nombre")
 	txtIdNombre.value = nombre;
 	
-	
-	
 
 }
 
